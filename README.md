@@ -1,14 +1,14 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=Hi,%20I'm%20Priti%20Kumari&fontSize=40&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=190&text=Hi,%20I'm%20Priti%20Kumari&fontSize=42&fontAlignY=35"/>
 </p>
 
 <p align="center">
-🎓 BCA Student • 💻 Frontend / MERN Stack Learner • 🚀 Aspiring Full-Stack Developer
+🎓 BCA Graduate • 💻 MERN Stack Developer • 🚀 Job-Ready Full-Stack Aspirant
 </p>
 
 <p align="center">
-🌱 Currently learning <b>React, Node.js & MongoDB</b><br/>
-✨ Passionate about building real-world web applications
+✨ Strong foundation in <b>Computer Applications</b><br/>
+🌱 Hands-on experience with <b>React, Node.js & MongoDB</b>
 </p>
 
 ---
@@ -17,24 +17,29 @@
 
 ### 🚀 Frontend Developer Intern  
 **Company:** Asha Learnlogy, Saket  
-**Duration:** 7 Months  
+**Duration:** 2 Months  
 
-**Project Worked On:** Internship / Client Web Application  
+### 🛠 Work & Contributions
+- Developed **production-level responsive websites**
+- Built clean UI using **HTML, CSS, JavaScript & React**
+- Worked on **live client projects**
+- Improved performance & UI/UX
+- Used **Git & GitHub** for version control
 
-- Built responsive and user-friendly UI  
-- Worked with **HTML, CSS, JavaScript & React**  
-- Improved UI/UX based on real client requirements  
-- Used **Git & GitHub** for version control  
-- Gained hands-on experience in real development workflow  
+### 🌐 Live Projects Worked On
+- 🔗 **Wave Visas Website**  
+  👉 https://wave-visas.vercel.app/
 
-🔗 **Project Repository:** https://github.com/Priti130902/YOUR-INTERNSHIP-REPO  
-🌐 **Live Demo:**https://wave-visas.vercel.app/
+- 🔗 **Asha Learnlogy Website**  
+  👉 https://ashalearnology.vercel.app/
+
+💡 *Both projects are live and used by real users.*
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 MERN Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,express,git,github&theme=dark" />
 </p>
 
 ---
@@ -47,18 +52,27 @@
 
 ---
 
-##🚀 Projects
-- 🌐 **Portfolio Website** – Personal responsive portfolio  
-- 📝 **Task Management App** – React-based task manager  
-- 🔐 **Authentication System** – MERN stack (Learning Phase)  
-- 💼 **Internship Project** – Frontend web application (Asha Learnlogy)
+## 🚀 Projects
+- 🌐 **Wave Visas Website** – Live client project  
+- 🏫 **Asha Learnlogy Website** – Educational platform  
+- 📝 **Task Management App** – React based application  
+- 🔐 **Authentication System** – MERN Stack (JWT – Learning)  
+- 🎨 **Portfolio Website** – Personal responsive portfolio  
 
 ---
 
-## 🌟 What I’m Currently Doing
-- Strengthening React & JavaScript fundamentals  
-- Learning backend with Node.js & MongoDB  
-- Building strong GitHub projects & portfolio  
+## 🌟 Why I’m Job-Ready
+✅ BCA Completed (Strong CS fundamentals)  
+✅ Real Internship Experience  
+✅ Live Production Websites  
+✅ MERN Stack Skillset  
+✅ GitHub-based Development Workflow  
+
+---
+
+## 🎯 Currently Looking For
+💼 **Junior MERN Stack Developer / Frontend Developer roles**  
+📍 Open to internships & full-time opportunities  
 
 ---
 
@@ -73,6 +87,7 @@
 </p>
 
 <p align="center">
-✨ Thanks for visiting my GitHub profile ✨
+💙 Thanks for visiting my GitHub — let’s build something impactful!
 </p>
+
 
