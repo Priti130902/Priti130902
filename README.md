@@ -28,7 +28,7 @@
 - Gained hands-on experience in real development workflow  
 
 🔗 **Project Repository:** https://github.com/Priti130902/YOUR-INTERNSHIP-REPO  
-🌐 **Live Demo:** (If available, else remove this line)
+🌐 **Live Demo:**https://wave-visas.vercel.app/
 
 ---
 
@@ -47,7 +47,7 @@
 
 ---
 
-## 🚀 Projects
+##🚀 Projects
 - 🌐 **Portfolio Website** – Personal responsive portfolio  
 - 📝 **Task Management App** – React-based task manager  
 - 🔐 **Authentication System** – MERN stack (Learning Phase)  
