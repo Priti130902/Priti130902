@@ -1,93 +1,81 @@
+
+<!-- Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=190&text=Hi,%20I'm%20Priti%20Kumari&fontSize=42&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Priti%20Kumari&fontSize=40&fontAlignY=35&animation=fadeIn"/>
 </p>
 
+<!-- Typing Animation -->
 <p align="center">
-🎓 BCA Graduate • 💻 MERN Stack Developer • 🚀 Job-Ready Full-Stack Aspirant
-</p>
-
-<p align="center">
-✨ Strong foundation in <b>Computer Applications</b><br/>
-🌱 Hands-on experience with <b>React, Node.js & MongoDB</b>
-</p>
-
----
-
-## 🧑‍💼 Internship Experience
-
-### 🚀 Frontend Developer Intern  
-**Company:** Asha Learnlogy, Saket  
-**Duration:** 2 Months  
-
-### 🛠 Work & Contributions
-- Developed **production-level responsive websites**
-- Built clean UI using **HTML, CSS, JavaScript & React**
-- Worked on **live client projects**
-- Improved performance & UI/UX
-- Used **Git & GitHub** for version control
-
-### 🌐 Live Projects Worked On
-- 🔗 **Wave Visas Website**  
-  👉 https://wave-visas.vercel.app/
-
-- 🔗 **Asha Learnlogy Website**  
-  👉 https://ashalearnology.vercel.app/
-
-💡 *Both projects are live and used by real users.*
-
----
-
-## 🛠 MERN Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,express,git,github&theme=dark" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Frontend+Focused+Web+Developer;React+%7C+Node.js+%7C+MongoDB" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 👋 Who I Am
+I’m a **MERN stack developer** with a strong focus on frontend development.  
+I enjoy building **clean, responsive, and user-friendly interfaces** and have hands-on experience working on **live production websites** during my internship.
+
+I like translating ideas and designs into reliable web experiences while following clean code and Git-based workflows.
+
+---
+
+## 💼 Experience
+
+### Frontend Developer Intern  
+**Asha Learnlogy**
+
+- Worked on real client-facing web applications  
+- Built responsive UI using **HTML, CSS, JavaScript & React**
+- Implemented layouts, reusable components, and UI improvements  
+- Collaborated using **Git & GitHub**
+- Focused on usability, structure, and performance
+
+### 🌐 Live Websites
+- **Wave Visas** → https://wave-visas.vercel.app/  
+- **Asha Learnlogy** → https://ashalearnology.vercel.app/
+
+---
+
+## 🛠 Tech Stack
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Priti130902&show_icons=true&theme=radical&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priti130902&layout=compact&theme=radical&hide_border=true" height="160"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github&theme=dark" />
 </p>
 
 ---
 
-## 🚀 Projects
-- 🌐 **Wave Visas Website** – Live client project  
-- 🏫 **Asha Learnlogy Website** – Educational platform  
-- 📝 **Task Management App** – React based application  
-- 🔐 **Authentication System** – MERN Stack (JWT – Learning)  
-- 🎨 **Portfolio Website** – Personal responsive portfolio  
+## 📈 GitHub Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Priti130902&show_icons=true&hide_border=true&theme=tokyonight" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Priti130902&hide_border=true&theme=tokyonight" height="150"/>
+</p>
 
 ---
 
-## 🌟 Why I’m Job-Ready
-✅ BCA Completed (Strong CS fundamentals)  
-✅ Real Internship Experience  
-✅ Live Production Websites  
-✅ MERN Stack Skillset  
-✅ GitHub-based Development Workflow  
-
----
-
-## 🎯 Currently Looking For
-💼 **Junior MERN Stack Developer / Frontend Developer roles**  
-📍 Open to internships & full-time opportunities  
+## 📂 Selected Work
+- **Wave Visas** – Live client website  
+- **Asha Learnlogy** – Educational platform  
+- **Task Management App** – React-based  
+- **Authentication System** – MERN practice project  
+- **Portfolio Website**
 
 ---
 
 ## 📫 Connect With Me
 <p align="center">
-  <a href="mailto: pritiroy.manoj@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
   <a href="https://www.linkedin.com/in/priti-kumari-ab4b80386">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
+  <a href="mailto: pritiroy.manoj@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
+<!-- Footer Animation -->
 <p align="center">
-💙 Thanks for visiting my GitHub — let’s build something impactful!
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </p>
 
 
