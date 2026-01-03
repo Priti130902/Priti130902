@@ -40,22 +40,16 @@ I’m comfortable working with modern frontend workflows and collaborating using
 </p>
 
 ---
-
 ## 📊 GitHub Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Priti130902&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="150"/>
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Priti130902&theme=tokyonight&hide_border=true" height="150"/>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Priti130902&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight)
 
----
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Priti130902&theme=tokyonight)
 
 ## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Priti130902/Priti130902/output/github-contribution-grid-snake.svg" />
-</p>
+
+![Contribution Snake](https://raw.githubusercontent.com/Priti130902/Priti130902/output/github-contribution-grid-snake.svg)
+
 
 ---
 
