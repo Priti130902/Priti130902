@@ -78,10 +78,10 @@
 
 ## 📫 Connect With Me
 <p align="center">
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto: pritiroy.manoj@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/your-link">
+  <a href="https://www.linkedin.com/in/priti-kumari-ab4b80386">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
 </p>
