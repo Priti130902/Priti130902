@@ -41,13 +41,12 @@ I’m comfortable working with modern frontend workflows and collaborating using
 
 ---
 ## 📊 GitHub Activity
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Priti130902&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Priti130902&theme=tokyonight)
 
-## 🐍 Contribution Snake
 
+## 🐍 Contribution Snake
 ![Contribution Snake](https://raw.githubusercontent.com/Priti130902/Priti130902/output/github-contribution-grid-snake.svg)
 
 
@@ -75,7 +74,7 @@ I’m comfortable working with modern frontend workflows and collaborating using
   <a href="https://www.linkedin.com/in/priti-kumari-ab4b80386">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto: pritiroy.manoj@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
