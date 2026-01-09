@@ -13,7 +13,7 @@
 
 <!-- ===================== WHO I AM ===================== -->
 ## 👋 Who I Am
-I am a **MERN stack developer** with a strong focus on **frontend development**.  
+I am a **Full stack developer** with a strong focus on **frontend development**.  
 I enjoy building **clean, responsive, and user-friendly interfaces** and have hands-on experience working on **live production websites** during my internship.
 
 ---
